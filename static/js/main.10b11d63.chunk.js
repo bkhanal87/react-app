@@ -1,2 +1,0 @@
-(this["webpackJsonp00-practice-app"]=this["webpackJsonp00-practice-app"]||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);r(1);var c=r(3),n=r.n(c),s=r(0);var p=function(){return Object(s.jsxs)("p",{children:["Hello World! Here is ","some text"]})};var o=function(){return Object(s.jsx)(p,{})};n.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.10b11d63.chunk.js.map
